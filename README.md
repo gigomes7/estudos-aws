@@ -8,6 +8,9 @@ Meus registros de estudo e laboratórios práticos na AWS, com explicações sim
 | --- | --- | --- |
 | [01 — First VPC](laboratorios/01-first-vpc/README.md) | VPC, sub-rede pública, Internet Gateway e roteamento | Sub-rede `192.168.1.0/26`: 59 IPv4 utilizáveis |
 | [02 — Test VPC manual e EC2](laboratorios/02-test-vpc/README.md) | VPC manual, rotas, NACL, Security Group, Amazon Linux 2023, SSH e ping | Sub-rede `192.168.1.0/28`: 11 IPv4 utilizáveis; ping 4/4 |
+| [229 — Criar usuários e grupos no Linux](laboratorios/229-criar-usuarios-grupos-linux/README.md) | Usuários, grupos, permissões, sudo e auditoria de acesso | Grupos conferidos; permissão de escrita e sudo negados conforme esperado |
+| [231 — Editar arquivos com Vim e Nano](laboratorios/231-editar-arquivos-vim-nano/README.md) | vimtutor (lições 1–3), edição, salvamento e descarte de alterações | Arquivos `helloworld` e `cloudworld` editados e conferidos |
+| [233 — Trabalhar com o sistema de arquivos](laboratorios/233-trabalhar-sistema-arquivos/README.md) | mkdir, touch, cp, mv, rm, rmdir e tree em EC2 Linux | Estrutura CompanyA/HR organizada com 3 subpastas e 6 arquivos |
 | [265 — Comandos de solução de problemas de protocolo da Internet](laboratorios/265-comandos-solucao-problemas-protocolo-internet/README.md) | SSH, ping, traceroute, netstat, telnet e curl em EC2 Linux | Ping 5/5, TCP/80 conectado, HTTPS `200 OK` |
 | [266 — Solucionar problemas de rede](laboratorios/266-solucionar-problemas-de-rede/README.md) | Diagnóstico do Apache, Security Group, Network ACL, curl e ss | Apache iniciado, porta HTTP liberada e página de teste aberta |
 

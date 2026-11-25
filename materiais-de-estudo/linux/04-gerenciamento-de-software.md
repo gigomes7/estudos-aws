@@ -59,7 +59,7 @@ apt list --installed
 
 - **apt update:** atualiza a lista de versões de software disponíveis; não instala essas atualizações automaticamente.
 - **apt upgrade:** atualiza pacotes instalados.
-- **apt install/remov**e: instala ou remove softwares.
+- **apt install / apt remove:** instala ou remove softwares.
 
 **Exemplo do WSL:** no Debian, o comando pstree pode ser instalado pelo pacote psmisc.
 

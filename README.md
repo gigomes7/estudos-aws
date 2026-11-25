@@ -12,6 +12,7 @@ Meus registros de estudo e laboratórios práticos na AWS, com explicações sim
 | [231 — Editar arquivos com Vim e Nano](laboratorios/231-editar-arquivos-vim-nano/README.md) | vimtutor (lições 1–3), edição, salvamento e descarte de alterações | Arquivos `helloworld` e `cloudworld` editados e conferidos |
 | [233 — Trabalhar com o sistema de arquivos](laboratorios/233-trabalhar-sistema-arquivos/README.md) | mkdir, touch, cp, mv, rm, rmdir e tree em EC2 Linux | Estrutura CompanyA/HR organizada com 3 subpastas e 6 arquivos |
 | [237 — Gerenciar permissões de arquivos no Linux](laboratorios/237-gerenciar-permissoes-arquivos/README.md) | chown, chmod simbólico e numérico, proprietários e grupos | HR, Finance, Shipping e Sales com propriedades validadas; chmod 764 confirmado |
+| [239 — Gerenciar processos no Linux](laboratorios/239-gerenciar-processos-linux/README.md) | SSH, ps, grep, tee, top e agendamento Cron | processes.csv conferido; top com 1 tarefa running; crontab instalado |
 | [265 — Comandos de solução de problemas de protocolo da Internet](laboratorios/265-comandos-solucao-problemas-protocolo-internet/README.md) | SSH, ping, traceroute, netstat, telnet e curl em EC2 Linux | Ping 5/5, TCP/80 conectado, HTTPS `200 OK` |
 | [266 — Solucionar problemas de rede](laboratorios/266-solucionar-problemas-de-rede/README.md) | Diagnóstico do Apache, Security Group, Network ACL, curl e ss | Apache iniciado, porta HTTP liberada e página de teste aberta |
 

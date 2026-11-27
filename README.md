@@ -33,6 +33,7 @@ Resumos autorais organizados a partir dos slides e anotações das aulas da Esco
 | [03 — Gerenciamento de processos](materiais-de-estudo/linux/03-gerenciamento-de-processos.md) | ps, pstree, top, kill, nice, jobs, at e cron | 239 |
 | [04 — Gerenciamento de software](materiais-de-estudo/linux/04-gerenciamento-de-software.md) | RPM, YUM, DPKG, APT, repositórios, wget, curl e AWS CLI | 243 |
 | [05 — Gerenciamento de arquivos de log](materiais-de-estudo/linux/05-gerenciamento-de-arquivos-de-log.md) | Syslog, /var/log, head, tail, less, grep, lastlog e logrotate | 245 |
+| [06 — Como trabalhar com comandos](materiais-de-estudo/linux/06-como-trabalhar-com-comandos.md) | Bash, curingas, aspas, redirecionamentos, pipes, grep, cut, sed, sort, uniq e awk | Aula teórica e exercícios sugeridos |
 
 **Observação:** estes materiais são notas de estudo, não cópias integrais dos slides originais, e os comandos ilustrativos não representam execução adicional na AWS.
 

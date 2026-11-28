@@ -17,6 +17,7 @@ Meus registros de estudo e laboratórios práticos na AWS, com explicações sim
 | [241 — Gerenciar serviços no Linux](laboratorios/241-gerenciar-servicos-linux/README.md) | Apache/httpd, systemctl, top, stress.sh e CloudWatch | Apache ativo e testado via HTTP; pico de CPU de ~63,69% registrado |
 | [243 — Gerenciamento de software no Linux](laboratorios/243-gerenciamento-software-linux/README.md) | YUM, histórico/undo, Python, pip, AWS CLI e EC2 | httpd instalado e revertido; consulta AWS CLI confirmou t3.micro |
 | [245 — Gerenciar arquivos de log no Linux](laboratorios/245-gerenciar-arquivos-log-linux/README.md) | less, logs de autenticação, eventos SSH/PAM e lastlog | Leitura de secure confirmada; último login do ec2-user identificado |
+| [247 — Trabalhar com comandos no Linux](laboratorios/247-trabalhar-com-comandos-linux/README.md) | tee, sort, pipe, grep, cut e sed | Arquivos criados; filtros e substituições validados; laboratório encerrado |
 | [265 — Comandos de solução de problemas de protocolo da Internet](laboratorios/265-comandos-solucao-problemas-protocolo-internet/README.md) | SSH, ping, traceroute, netstat, telnet e curl em EC2 Linux | Ping 5/5, TCP/80 conectado, HTTPS `200 OK` |
 | [266 — Solucionar problemas de rede](laboratorios/266-solucionar-problemas-de-rede/README.md) | Diagnóstico do Apache, Security Group, Network ACL, curl e ss | Apache iniciado, porta HTTP liberada e página de teste aberta |
 
